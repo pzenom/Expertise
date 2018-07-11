@@ -1,0 +1,8 @@
+{
+  "name": "expertise",
+  "app_id": "3eec0f86",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
